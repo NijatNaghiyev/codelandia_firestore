@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "24884035926",
+    "project_id": "codelandia-firestore-e8920",
+    "storage_bucket": "codelandia-firestore-e8920.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:24884035926:android:d6cfe4f55fbec4ddad56f7",
+        "android_client_info": {
+          "package_name": "com.example.codelandia_firestore"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDuOVVXpwtsamsjC3ZJaa_z140IhesE1As"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
