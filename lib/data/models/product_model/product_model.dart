@@ -1,7 +1,3 @@
-import 'package:uuid/uuid.dart';
-
-const uuId = Uuid();
-
 class ProductModel {
   String? id;
   String name;
